@@ -1,6 +1,6 @@
 from scservo_sdk import *
 
-# Simple encapsulation for SMS Servo. Most of the functions has NOT been implemented yet.
+# Most of the functions has NOT been implemented yet.
 
 
 # Address table
